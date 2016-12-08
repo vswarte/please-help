@@ -1,7 +1,7 @@
 # PLEASE HELP ME
 
 ## WHAT IS THIS
-A small script to grab and output a random plead for help.
+A small script to output a random plead for help.
 
 ## WHY WOULD YOU DO THIS
 I needed something to spice up my zsh's ```preexec```
