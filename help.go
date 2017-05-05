@@ -24,6 +24,6 @@ var lines = []string{
 	"I CAN'T GO ON MUCH LONGER"}
 
 func main() {
-	rand.Seed(time.Now().Unix())
+	rand.Seed(time.Now().UnixNano())
 	fmt.Println(lines[rand.Int()%len(lines)])
 }
